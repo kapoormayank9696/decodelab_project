@@ -27,11 +27,11 @@ Exception Handling
 
 # 📂 Project Structure
 
-'''
+```
 Project-1-Number-Guessing-Game
 - │
 - ├── src
 - │   └── DecodeLabs_Java_P1.java
 - └── README.md
-'''
+```
 ---
