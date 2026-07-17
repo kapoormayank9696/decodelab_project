@@ -29,6 +29,7 @@ Exception Handling
 
 ```
 Project-1-Number-Guessing-Game
+- ├── .idea
 - ├── screenshot
 - ├── src
 - │   └── DecodeLabs_Java_P1.java
