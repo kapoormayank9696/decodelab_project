@@ -35,7 +35,9 @@ Project-1-Number-Guessing-Game
 - │   └── DecodeLabs_Java_P1.java
 - └── README.md
 ```
+
 ---
+
 # 👤 Author
 
 # Mayank Kapoor
