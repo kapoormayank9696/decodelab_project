@@ -3,7 +3,6 @@
 A Java console application developed as Project 1 during my Decode Labs Java Programming Internship.
 
 ---
-
 # 🚀 Features
 
 Random Number Generation (1–100)
