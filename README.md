@@ -105,9 +105,9 @@ screenshots/gameplay.png
 
 **Mayank Kapoor**
 
-📧 Email: **kapoormayank645@gmail.com**
+# 📧 Email: **kapoormayank645@gmail.com**
 
-🐙 GitHub: **https://github.com/kapoormayank9696**
+# 🐙 GitHub: **https://github.com/kapoormayank9696**
 
 ---
 
