@@ -103,7 +103,7 @@ screenshots/gameplay.png
 
 ## 👨‍💻 Author
 
-**Mayank Kapoor**
+# **Mayank Kapoor**
 
 # 📧 Email: **kapoormayank645@gmail.com**
 
