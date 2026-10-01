@@ -3,7 +3,6 @@
 A simple **Java Console Application** developed as **Project 1** during my **Decode Labs Java Programming Internship**.
 
 The game generates a random number between **1 and 100**, and the player must guess it within a limited number of attempts. After each guess, the program provides feedback indicating whether the guess is too high or too low, making the game interactive and engaging.
-
 ---
 
 ## 📌 Features
